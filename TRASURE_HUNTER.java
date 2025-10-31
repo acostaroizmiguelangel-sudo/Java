@@ -8,7 +8,8 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import java.io.*;
 import java.util.ArrayList;
-
+//Primera revision 13/10/25
+//Ultima revision 22/10/25
 public class TRASURE_HUNTER {
 
     public static void main(String[] args) {
